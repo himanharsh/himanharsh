@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Himanshu Harsh!
 - 👀 I’m interested in coding and web development.
 - 🌱 I’m currently learning CSS and C++.
-- 📫 My e-mail: himanshuharsh1999@gmail.com
+- 📫 My tech journey -> C, Python, C++, HTML, CSS
 
 <!---
 himanharsh/himanharsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
